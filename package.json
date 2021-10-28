@@ -1,0 +1,12 @@
+{
+  "name": "npm-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodeEjercicio2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node nodeEjercicio2.js"
+  },
+  "author": "Autor",
+  "license": "ISC"
+}
